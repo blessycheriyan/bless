@@ -157,6 +157,10 @@ ul.submenu li a.active {
     color: #2a5298;
 }
 
+h5.sub  a:hover,
+  a.active {
+    color: #f7f7f7;
+}
 /* //menu */
 .navbar {
 	padding: 1em 2em;
